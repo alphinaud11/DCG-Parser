@@ -1,4 +1,4 @@
-# DCG Parser
+# DCG Parsera
 An implementation of a parser for a definite clause grammar (DCG) of English-Light.
 
 ## Note
